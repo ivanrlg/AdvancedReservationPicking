@@ -1,0 +1,32 @@
+{
+  "id": "076abb6c-7c80-47f0-b6c4-cf0a6556f810",
+  "name": "AdvancedReservationPicking",
+  "publisher": "ivansingleton.dev",
+  "version": "1.0.0.0",
+  "brief": "Enhance pick process efficiency in Business Central with reservation-focused customizations.",
+  "description": "Enhance pick process efficiency in Business Central with reservation-focused customizations.",
+  "privacyStatement": "https://ivansingleton.dev/",
+  "EULA": "https://ivansingleton.dev/",
+  "help": "https://ivansingleton.dev/",
+  "url": "https://ivansingleton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
